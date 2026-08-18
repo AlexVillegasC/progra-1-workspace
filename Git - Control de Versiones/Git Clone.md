@@ -6,3 +6,7 @@
 4. Abrimos Obsidian
 5. Buscamos folder
 6. Listo
+
+Como bajamos los cambios a local
+1. git fetch        // revisar ultimos cambios de Remoto
+2. git pull origin main  //jalar / actualizar Local 
