@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "6da3da09cbc66abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e901966f3a5a86",
+        "type": "tabs",
+        "dimension": 68.94409937888199,
+        "children": [
+          {
+            "id": "8b4835218e89d35e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git - Control de Versiones/Git Init.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Init"
+            }
+          }
+        ]
+      },
+      {
+        "id": "99fa64b4b626f0a1",
+        "type": "tabs",
+        "dimension": 31.055900621118006,
+        "children": [
+          {
+            "id": "a15e7f10c39a7afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POO/Encapsulamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encapsulamiento"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36b8a8a7fe4dd402",
+    "type": "split",
+    "children": [
+      {
+        "id": "c688d16409ba249b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce6438349040cb87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5a1027d5b7106be4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "256b3e118352708c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fd32b3dcea04c3cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "51dd2289f91e0f16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52cd6f0d722662bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/OpenCode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "999776111d4a95bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/OpenCode.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "11611d9e9cee35f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fe0b0175a61a92ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9564cf328d53962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/OpenCode.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8b4835218e89d35e",
+  "lastOpenFiles": [
+    "Git - Control de Versiones/Untitled.md",
+    "Untitled.canvas",
+    "Git - Control de Versiones/Git Init.md",
+    "Pasted image 20260811181005.png",
+    "Pasted image 20260811180518.png",
+    "Pasted image 20260811180507.png",
+    "Pasted image 20260811180435.png",
+    "AI/SKILLS.md",
+    "AI/OpenCode.md",
+    "AI/WARP.md",
+    "Herramientas/NPM.md",
+    "AI/GEMINI - CLI.md",
+    "POO/Modificadores de Acceso.md",
+    "POO/Encapsulamiento.md",
+    "POO/POO.md",
+    "POO/Abstraccion.md",
+    "Welcome.md",
+    "Git - Control de Versiones",
+    "Herramientas",
+    "AI",
+    "POO"
+  ]
+}
