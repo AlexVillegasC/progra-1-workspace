@@ -25,15 +25,16 @@ Pasos:
 3. Busco un folder para Lab 3.
 4. El folder elegido
 5. Abrimos CMD desde la ruta local
-6. ![[Pasted image 20260818180303.png]]
+6. git clone https://github.com/AlexVillegasC/Progra1-Lab3
+7. ![[Pasted image 20260818180303.png]]
 
-7. Abrimos Visual Studio y Creamos una proyecto
-8. ![[Pasted image 20260818180603.png]]
+8. Abrimos Visual Studio y Creamos una proyecto
+9. ![[Pasted image 20260818180603.png]]
 
-9. ![[Pasted image 20260818180606.png|374]]
-10. ![[Pasted image 20260818180729.png]]
-11. Verificas que tienes ambos folders
-12. ![[Pasted image 20260818180750.png]]
-13. git add .
-14. git commit -m "Mi primer commit"
-15. git push origin HEAD
+10. ![[Pasted image 20260818180606.png|374]]
+11. ![[Pasted image 20260818180729.png]]
+12. Verificas que tienes ambos folders
+13. ![[Pasted image 20260818180750.png]]
+14. git add .
+15. git commit -m "Mi primer commit"
+16. git push origin HEAD
