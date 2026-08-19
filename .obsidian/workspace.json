@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git - Control de Versiones/Git Clone.md",
+                "file": "Git - Control de Versiones/Pull Request.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Clone"
+              "title": "Pull Request"
             }
           }
         ]
@@ -212,9 +212,9 @@
   },
   "active": "8b4835218e89d35e",
   "lastOpenFiles": [
+    "Git - Control de Versiones/Git Clone.md",
     "Git - Control de Versiones/Pull Request.md",
     "Git - Control de Versiones/Git Init.md",
-    "Git - Control de Versiones/Git Clone.md",
     "Pasted image 20260818180750.png",
     "Pasted image 20260818180729.png",
     "Pasted image 20260818180606.png",
